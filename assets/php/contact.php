@@ -41,7 +41,7 @@ $comments = stripslashes($comments);
 // Example $address = "joe.doe@yourdomain.com";
 
 //$address = "example@example.net";
-$address = "example@example.net";
+$address = "mella.nicolas@gmail.com";
 
 
 // Configuration option.
